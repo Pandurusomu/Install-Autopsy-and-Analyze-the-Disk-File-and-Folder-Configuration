@@ -25,12 +25,13 @@ autopsy
 It will be accessible at ```http://localhost:9999``` by default in your browser.
 
 ## OUTPUT:
-<img width="1920" height="1080" alt="Screenshot (278)" src="https://github.com/user-attachments/assets/3e808d35-27d4-48ba-90c5-6ecc2ea192a0" />
-<img width="1920" height="1080" alt="Screenshot (280)" src="https://github.com/user-attachments/assets/6ea47927-7cbe-40ac-82c0-f05f7deddad9" />
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/761a2e3a-eac1-473c-8e0d-1bc17867b95f" />
+<img width="1697" height="936" alt="image" src="https://github.com/user-attachments/assets/0d10bc2c-0349-488f-b124-1fc181117ea0" />
 
-<img width="1920" height="1080" alt="Screenshot (281)" src="https://github.com/user-attachments/assets/b5533c37-b318-44ff-8a7b-b1bf023b7340" />
+<img width="1919" height="1042" alt="image" src="https://github.com/user-attachments/assets/0011ac3a-911f-4526-8d49-25ef09121099" />
+<img width="1697" height="936" alt="image" src="https://github.com/user-attachments/assets/2afaf58d-a133-4e8e-b82c-aeae63bd66ca" />
 
-<img width="1920" height="1080" alt="Screenshot (282)" src="https://github.com/user-attachments/assets/af7cef35-ec2b-4187-8a3b-7453574d133d" />
+
 
 
 
