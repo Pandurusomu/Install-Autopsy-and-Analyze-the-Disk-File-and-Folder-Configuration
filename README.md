@@ -13,9 +13,10 @@ Launch Autopsy from the terminal or application menu and create a new case.
 ### Step 3:
 Add a disk image or file to the case and analyze the contents such as deleted files, metadata, and folder structure.
 
-## PROGRAM:<img width="1920" height="1080" alt="Screenshot (278)" src="https://github.com/user-attachments/assets/42b8a1a0-95c4-48d2-9ecb-befb384e7d92" /><img width="1920" height="1080" alt="Screenshot (281)" src="https://github.com/user-attachments/assets/a5898f4f-411f-497a-90d5-c24329e07fa6" />
+## PROGRAM:
 1. Autopsy Web Interface
 Launch Autopsy:
+<img width="1707" height="949" alt="image" src="https://github.com/user-attachments/assets/d8e35446-c91e-47c8-a79b-3dbf6dcd2a24" />
 
 You can start Autopsy via terminal, which opens the web interface:
 
@@ -29,7 +30,7 @@ It will be accessible at ```http://localhost:9999``` by default in your browser.
 <img width="1697" height="936" alt="image" src="https://github.com/user-attachments/assets/0d10bc2c-0349-488f-b124-1fc181117ea0" />
 
 <img width="1919" height="1042" alt="image" src="https://github.com/user-attachments/assets/0011ac3a-911f-4526-8d49-25ef09121099" />
-<img width="1697" height="936" alt="image" src="https://github.com/user-attachments/assets/2afaf58d-a133-4e8e-b82c-aeae63bd66ca" />
+
 
 
 
